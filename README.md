@@ -1,5 +1,7 @@
 # PackLens: AI-Powered Package Compliance Checker
 
+**Live Demo:** [https://packlens-nine.vercel.app/](https://packlens-nine.vercel.app/)
+
 PackLens is an objective analysis tool designed to verify packaging compliance with legal metrology rules using Google's powerful **Gemini Vision AI**. 
 
 This repository contains a full-stack application that allows users to upload an image of a product package, process the image using AI, and receive an objective report detailing whether the package meets regulatory standards. It's built to be fast, reliable, and completely local (with an in-memory database) for easy objective testing.
